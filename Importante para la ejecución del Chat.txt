@@ -1,0 +1,6 @@
+Si se le pide seleccionar la clase main del proyecto: 
+Ejecutar el proyecto con la clase main: Chat_Cliente.java
+
+Y las ventanas por separado.
+Ejecutar la ventana: Chat_Cliente
+Y luego la ventana: Chat_Servidor
